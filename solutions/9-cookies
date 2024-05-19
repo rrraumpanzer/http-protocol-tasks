@@ -1,0 +1,4 @@
+GET /account HTTP/1.1
+host: localhost
+cookie: name=user
+cookie: secret=secret_hash
